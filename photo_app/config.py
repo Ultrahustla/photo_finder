@@ -1,0 +1,2 @@
+INSTAGRAM_API_KEY='КЛЮЧ'
+
